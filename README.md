@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/{andsonqueiroz}/{andsonqueiroz}/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/andsonqueiroz/andsonqueiroz/blob/output/github-contribution-grid-snake.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Andson+Queiroz;I'm+20+years+old;I'm+from+Brazil;I´m+studying+Systems+Analysis+and+Development;I´m+a+computer+technician;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -44,4 +44,4 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/{andsonqueiroz}/{andsonqueiroz}/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/andsonqueiroz/andsonqueiroz/blob/output/github-contribution-grid-snake.gif)
