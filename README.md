@@ -19,28 +19,34 @@
 </div>
 
 <div align="center"> 
+  <h2>&ensp; <i>C O N T A T O S</i> &ensp;</h2>
 <a href="https://www.instagram.com/obemo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:mrpewceful@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/andson-queiroz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
- ### Main skills:
+<div align="center"> 
+  
+ ### 👩‍💻 Main skills:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-java?style=for-the-badge&logo=coffeescript&logoColor=white&color=%238B0000)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)&nbsp; 
+![JavaScript](https://img.shields.io/badge/javascript-java?style=for-the-badge&logo=javascript&logoColor=yellow&color=black)&nbsp;
+![SQL](https://img.shields.io/badge/sql-bench?style=for-the-badge&logo=mysql&logoColor=white&color=%2300255f)&nbsp; 
 
-### Studying in this moment:
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+</div>
 
-### 👩‍💻 IDE:
-![MySQL Server](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)&nbsp;
+<div align="center"> 
+  
+### 🛠 IDE:
+![MySQL Server](https://img.shields.io/badge/mysql-sql?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue&color=black)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
