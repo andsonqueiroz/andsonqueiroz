@@ -42,9 +42,9 @@
   
 ### 🛠 IDE:
 ![MySQL Server](https://img.shields.io/badge/mysql-sql?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue&color=black)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-sql?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%2300008b&color=black)&nbsp;
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-figma?style=for-the-badge&logo=figma&logoColor=white&labelColor=orange&color=black)&nbsp;
 
 </div>
 
