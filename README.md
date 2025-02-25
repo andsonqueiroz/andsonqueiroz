@@ -55,4 +55,4 @@
 </div>
 
 
-![GitHub Snake](https://github.com/andsonqueiroz/andsonqueiroz/blob/output/space.svg)
+![GitHub Snake](https://github.com/andsonqueiroz/andsonqueiroz/blob/output/cyberpunk.svg)
