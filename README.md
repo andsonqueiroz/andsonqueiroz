@@ -55,4 +55,4 @@
 </div>
 
 
-![snake gif](https://github.com/andsonqueiroz/andsonqueiroz/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/ESTILO-COBRINHA.svg)
