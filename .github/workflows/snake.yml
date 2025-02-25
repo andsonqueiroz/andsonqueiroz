@@ -1,6 +1,6 @@
 name: Generator Snake
 
- on:
+on:
    schedule:
      - cron: "0 */12 * * *"
    workflow_dispatch:
@@ -9,7 +9,7 @@ name: Generator Snake
        - master
        - main
  
- jobs:
+jobs:
    generate:
      permissions: 
        contents: write
