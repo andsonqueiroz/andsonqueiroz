@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!,+Meu+nome+é+Andson+Queiroz;Tenho+20+anos;Moro+no+Brasil;Estou+cursando+Análise+e+Desenvolvimento+de+Sistemas;Sou+técnico+de+informática;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!,+Meu+nome+é+Andson+Queiroz;Tenho+21+anos;Moro+no+Brasil;Estou+cursando+Análise+e+Desenvolvimento+de+Sistemas;Sou+técnico+de+informática;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andsonqueiroz&bg_color=000000&color=009999&line=496d88&point=0182ad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -31,6 +31,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-java?style=for-the-badge&logo=coffeescript&logoColor=white&color=%238B0000)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-java?style=for-the-badge&logo=javascript&logoColor=yellow&color=black)&nbsp;
@@ -44,6 +45,8 @@
 ![MySQL Server](https://img.shields.io/badge/mysql-sql?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue&color=black)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/postgresql-sql?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=%2300008b&color=black)&nbsp;
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)&nbsp;
+![Arduino IDE](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-figma?style=for-the-badge&logo=figma&logoColor=white&labelColor=orange&color=black)&nbsp;
 
 </div>
